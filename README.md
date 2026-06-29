@@ -8,7 +8,7 @@
 
 A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
 
-![onlinebookstore](https://github.com/user-attachments/assets/0ad3c2a9-b8d6-4542-9f71-0fef162476a7)41-9e36-f3eb80b8f51)
+![onlinebookstore](https://github.com/user-attachments/assets/0ad3c2a9-b8d6-4542-9f71-0fef162476a7)
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online.
