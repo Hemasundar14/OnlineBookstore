@@ -126,11 +126,10 @@ Step 8: The default Username And Password For User Is "shashi" And "shashi"
 
 Note:- Considering this as a Sample Project, we have not much considered of web security.
 #### Some Screenshots for the project:
-<img width="941" alt="image" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png">
-<img width="954" alt="image" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png">
-<img width="930" alt="image" src="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png">
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png">
-<img width="946" alt="image" src="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png">
+![image](https://github.com/user-attachments/assets/2fbbd2fa-b169-4e30-a5e2-ff8925c46450)
+![image](https://github.com/user-attachments/assets/ed1d14d9-0555-4e4e-948b-6dc920977334)
+![image](https://github.com/user-attachments/assets/c9b27f0d-67c7-415c-a1c1-86207ba55d82)
+![image](https://github.com/user-attachments/assets/4fcd6acd-7603-40e9-8383-a75c55d0db4c)
 
 
 #### "Suggestions and project improvement ideas are welcomed!"
